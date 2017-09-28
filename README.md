@@ -1,1 +1,1 @@
-# game4
+# game-of-life
